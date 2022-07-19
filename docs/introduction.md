@@ -4,14 +4,14 @@ sidebar_position: 1
 
 # Introduction
 
-A DTO is a telecom operator on the blockchain that allows you to get your own number or get a pool of numbers with a readable prefix.
+DTO is a blockchain telecom operator that allows you to get your own number or prefix for web3 and the metaverse usage. 
 
-Top-level prefixes such as "dto" belong to a smart contract called Registrar, which controls the creation of number ranges and obtaining a number in the right range with the right prefix, such as "eth". 
+To get a unique number, you just need to specify the set of digits you like and make a payment set by a prefix registrar, for example, 0.1 ETH for the prefix "dto" per year. The number can be of any length from 1 to 10 digits.
 
-The number allows you to communicate and use it as a vcard, and will be a full alias wallet address in any supported network.
+A DTO number is an NFT token, the ERC-721 standard on the Ethereum blockchain. Your NFT ID is your number with a prefix ID, used in a smart contract, for example, DTO12345. The number allows you to communicate, serves as a vcard (virtual contact card) and as a wallet address alias in any supported network.
 
-To get your unique number, you just need to specify the set of digits you like and make a payment in the amount set by the registrar of the prefix, for example 0.1 ETH for the prefix "dto" per year. The number can be any length from 1 to 10 digits.
+The PublicStorage contract is used to store the data belonging to a number. It stores information about all wallets specified in other networks. You can also add your real phone number, avatar, and links to social networks. As a result, a DTO number becomes an identity card for web3 and the metaverse. 
 
-Number is an NFT token, the ERC-721 standard on the Ethereum blockchain. Your NFT ID is your number with the prefix ID used in the Registrar smart contract.
+There is also a solution for business. Anyone can get their own prefix to boost their brand reputation and spread numbers via their own channels. Owning a prefix is indefinite and gives access to 10 billion numbers. The price is 100 ETH. The prefix can be of any length from 1 to 10 symbols. That way, the characters your prefix consists of could look like BSC12345, NIKE12345, FACEBOOK12345, etc. 
 
-The PublicStorage contract is used to store the data belonging to the number. It stores information about all specified wallets in other networks. We can also specify our real phone number, avatar and social networks.
+Our BHAG is to turn DTO numbers into a master key to any service in web3 and the metaverse. It will bring crypto and the new internet closer to users and make a new way of communication as easy as any web2 chat.
